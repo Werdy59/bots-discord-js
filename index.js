@@ -8,4 +8,4 @@ import { fileURLToPath } from 'url';
 
 
 
-
+await command.execute(interaction);
